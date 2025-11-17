@@ -59,11 +59,6 @@ Thumbs.db
 .ipynb_checkpoints/
 *.ipynb
 
-# Logs
-*.log
-logs/
-log/
-
 # Large Data Files (GitHub size limits) - REMOVED backend/data/ to allow specific files
 
 data/vector_store/
