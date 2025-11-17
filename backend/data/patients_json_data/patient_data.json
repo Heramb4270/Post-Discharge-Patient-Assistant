@@ -1,0 +1,292 @@
+[
+{
+"patient_name": "John Smith",
+"discharge_date": "2024-01-15",
+"primary_diagnosis": "Chronic Kidney Disease Stage 3",
+"medications": ["Lisinopril 10mg daily", "Furosemide 20mg twice daily"],
+"dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+"follow_up": "Nephrology clinic in 2 weeks",
+"warning_signs": "Swelling, shortness of breath, decreased urine output",
+"discharge_instructions": "Monitor blood pressure daily"
+},
+{
+"patient_name": "Mary Thompson",
+"discharge_date": "2024-02-03",
+"primary_diagnosis": "Congestive Heart Failure (CHF), NYHA Class II",
+"medications": ["Carvedilol 6.25mg twice daily", "Furosemide 40mg daily"],
+"dietary_restrictions": "Low sodium (1.5g/day), fluid restriction (1.5L/day)",
+"follow_up": "Cardiology clinic in 1 week",
+"warning_signs": "Rapid weight gain, worsening shortness of breath, chest pain",
+"discharge_instructions": "Daily weight monitoring and record"
+},
+{
+"patient_name": "Carlos Rivera",
+"discharge_date": "2024-03-12",
+"primary_diagnosis": "Community-acquired Pneumonia",
+"medications": ["Amoxicillin-Clavulanate 875/125mg twice daily", "Albuterol inhaler PRN"],
+"dietary_restrictions": "No specific dietary restrictions",
+"follow_up": "Primary care in 7-10 days",
+"warning_signs": "High fever, worsening cough, difficulty breathing",
+"discharge_instructions": "Complete full course of antibiotics"
+},
+{
+"patient_name": "Aisha Khan",
+"discharge_date": "2024-04-01",
+"primary_diagnosis": "Type 2 Diabetes Mellitus with hyperglycemia",
+"medications": ["Metformin 500mg twice daily", "Insulin glargine 10 units nightly"],
+"dietary_restrictions": "Carbohydrate-controlled diet, avoid sugary drinks",
+"follow_up": "Diabetes clinic in 2 weeks",
+"warning_signs": "Symptoms of hypoglycemia, persistent hyperglycemia, polyuria",
+"discharge_instructions": "Check blood sugars before meals and at bedtime"
+},
+{
+"patient_name": "Liam O'Connor",
+"discharge_date": "2024-04-11",
+"primary_diagnosis": "Acute Exacerbation of COPD",
+"medications": ["Prednisone 40mg daily x5 days", "Tiotropium inhaler once daily", "Salbutamol inhaler PRN"],
+"dietary_restrictions": "No smoking; avoid respiratory irritants",
+"follow_up": "Pulmonology clinic in 2 weeks",
+"warning_signs": "Increased breathlessness, blue lips, confusion",
+"discharge_instructions": "Use inhalers as demonstrated and carry rescue inhaler"
+},
+{
+"patient_name": "Priya Patel",
+"discharge_date": "2024-05-05",
+"primary_diagnosis": "Acute Kidney Injury on CKD",
+"medications": ["Amlodipine 5mg daily", "Oral sodium bicarbonate 500mg twice daily"],
+"dietary_restrictions": "Low potassium, low sodium, fluid restriction 1.2L/day",
+"follow_up": "Nephrology clinic in 1 week",
+"warning_signs": "Reduced urine output, swelling, nausea/vomiting",
+"discharge_instructions": "Weigh daily and report >2kg gain in 48 hours"
+},
+{
+"patient_name": "Samuel Lee",
+"discharge_date": "2024-05-20",
+"primary_diagnosis": "Ischemic Stroke (Left MCA territory) - stable",
+"medications": ["Aspirin 81mg daily", "Atorvastatin 40mg nightly"],
+"dietary_restrictions": "Heart-healthy diet, low sodium",
+"follow_up": "Stroke clinic / Neurology in 2 weeks",
+"warning_signs": "New weakness, severe headache, slurred speech",
+"discharge_instructions": "Begin prescribed physiotherapy program and speech exercises"
+},
+{
+"patient_name": "Nora Svensson",
+"discharge_date": "2024-06-02",
+"primary_diagnosis": "Hip Fracture - post operative",
+"medications": ["Oxycodone 5mg PRN for pain", "Enoxaparin 40mg daily (anticoagulation)"],
+"dietary_restrictions": "High-protein diet encouraged for healing",
+"follow_up": "Orthopedics clinic in 2 weeks",
+"warning_signs": "Increased wound drainage, fever, calf swelling",
+"discharge_instructions": "Keep wound clean and dry; gradual weight-bearing as instructed"
+},
+{
+"patient_name": "Mohammed Ali",
+"discharge_date": "2024-06-18",
+"primary_diagnosis": "Acute Myocardial Infarction (STEMI) - post PCI",
+"medications": ["Aspirin 81mg daily", "Clopidogrel 75mg daily", "Atorvastatin 80mg nightly", "Metoprolol 50mg twice daily"],
+"dietary_restrictions": "Low saturated fat, low sodium",
+"follow_up": "Cardiology outpatient in 1 week",
+"warning_signs": "Chest pain, fainting, new shortness of breath",
+"discharge_instructions": "Cardiac rehab referral and activity guidelines provided"
+},
+{
+"patient_name": "Emily Davis",
+"discharge_date": "2024-07-03",
+"primary_diagnosis": "Severe Urinary Tract Infection (UTI)",
+"medications": ["Ciprofloxacin 500mg twice daily x7 days", "Phenazopyridine PRN for dysuria"],
+"dietary_restrictions": "Increase fluid intake unless fluid-restricted",
+"follow_up": "Primary care in 5-7 days",
+"warning_signs": "Fever, flank pain, persistent vomiting",
+"discharge_instructions": "Complete antibiotic course and obtain urine culture if symptoms persist"
+},
+{
+"patient_name": "Daniel Kim",
+"discharge_date": "2024-07-10",
+"primary_diagnosis": "Deep Vein Thrombosis (left leg)",
+"medications": ["Rivaroxaban 20mg daily"],
+"dietary_restrictions": "Avoid dehydration; maintain balanced diet",
+"follow_up": "Hematology / Vascular clinic in 1 week",
+"warning_signs": "Increased leg swelling, sudden shortness of breath (PE signs)",
+"discharge_instructions": "Keep leg elevated and avoid long immobilization"
+},
+{
+"patient_name": "Olga Petrova",
+"discharge_date": "2024-07-22",
+"primary_diagnosis": "Rheumatoid Arthritis flare",
+"medications": ["Methotrexate 15mg weekly", "Prednisone 10mg daily (short taper)"],
+"dietary_restrictions": "No alcohol while on methotrexate; maintain folate intake",
+"follow_up": "Rheumatology clinic in 2 weeks",
+"warning_signs": "New infections, persistent fever, unusual bleeding",
+"discharge_instructions": "Monitor for side effects of medications and have labs in 1 week"
+},
+{
+"patient_name": "Hassan Yusuf",
+"discharge_date": "2024-08-05",
+"primary_diagnosis": "Acute Cholecystitis - treated conservatively",
+"medications": ["Ibuprofen 400mg PRN", "Ondansetron 4mg PRN"],
+"dietary_restrictions": "Low-fat diet until surgical follow-up",
+"follow_up": "Surgery clinic in 2 weeks",
+"warning_signs": "Persistent abdominal pain, fever, jaundice",
+"discharge_instructions": "Return to ER for severe abdominal pain or vomiting"
+},
+{
+"patient_name": "Sofia Garcia",
+"discharge_date": "2024-08-18",
+"primary_diagnosis": "Major Depressive Disorder - stabilized on medication",
+"medications": ["Sertraline 50mg daily"],
+"dietary_restrictions": "None specific",
+"follow_up": "Psychiatry clinic in 1 week",
+"warning_signs": "Suicidal thoughts, worsening depression, severe anxiety",
+"discharge_instructions": "Maintain follow-up and continue therapy; seek crisis help if needed"
+},
+{
+"patient_name": "Rajesh Nair",
+"discharge_date": "2024-09-01",
+"primary_diagnosis": "Hypertensive urgency",
+"medications": ["Lisinopril 20mg daily", "Hydrochlorothiazide 12.5mg daily"],
+"dietary_restrictions": "Low sodium (2g/day)",
+"follow_up": "Primary care in 3 days",
+"warning_signs": "Severe headache, vision changes, chest pain",
+"discharge_instructions": "Home BP log twice daily and bring to appointment"
+},
+{
+"patient_name": "Grace Miller",
+"discharge_date": "2024-09-12",
+"primary_diagnosis": "Gastroenteritis - dehydration",
+"medications": ["Oral rehydration solution", "Ondansetron 4mg PRN"],
+"dietary_restrictions": "BRAT diet initially; avoid dairy until recovery",
+"follow_up": "Primary care in 1 week if not improved",
+"warning_signs": "Inability to tolerate fluids, high fever, bloody stools",
+"discharge_instructions": "Maintain adequate oral fluids and electrolytes"
+},
+{
+"patient_name": "Mateo Alvarez",
+"discharge_date": "2024-09-25",
+"primary_diagnosis": "Type 1 Diabetes - DKA resolved",
+"medications": ["Insulin as per diabetes plan (basal-bolus)", "Glucagon emergency kit"],
+"dietary_restrictions": "Consistent carbohydrate intake; avoid missed meals",
+"follow_up": "Diabetes educator and endocrinology in 3 days",
+"warning_signs": "Ketones in urine, nausea/vomiting, high blood sugar despite insulin",
+"discharge_instructions": "Carry glucometer and ketone strips; sick-day action plan provided"
+},
+{
+"patient_name": "Anna Kowalski",
+"discharge_date": "2024-10-05",
+"primary_diagnosis": "Anemia due to iron deficiency",
+"medications": ["Oral ferrous sulfate 325mg once daily", "Vitamin C 500mg daily to aid absorption"],
+"dietary_restrictions": "Increase dietary iron (lean meats, legumes); avoid tea/coffee with meals",
+"follow_up": "Hematology clinic in 4 weeks",
+"warning_signs": "Persistent fatigue, palpitations, shortness of breath",
+"discharge_instructions": "Take iron on empty stomach if tolerated; expect several weeks to improvement"
+},
+{
+"patient_name": "Ethan Brown",
+"discharge_date": "2024-10-20",
+"primary_diagnosis": "Acute Pancreatitis - resolved",
+"medications": ["Pancrelipase PRN for steatorrhea", "Acetaminophen 500mg PRN"],
+"dietary_restrictions": "Low-fat diet; avoid alcohol",
+"follow_up": "Gastroenterology clinic in 2 weeks",
+"warning_signs": "Severe abdominal pain, fever, persistent vomiting",
+"discharge_instructions": "Gradual return to oral intake as tolerated"
+},
+{
+"patient_name": "Yuki Tanaka",
+"discharge_date": "2024-11-01",
+"primary_diagnosis": "Transient Ischemic Attack (TIA)",
+"medications": ["Aspirin 81mg daily", "Atorvastatin 40mg nightly"],
+"dietary_restrictions": "Heart-healthy diet, low sodium",
+"follow_up": "Neurology clinic in 1 week",
+"warning_signs": "Recurrent weakness, speech difficulty, loss of vision",
+"discharge_instructions": "Avoid driving until cleared by neurology"
+},
+{
+"patient_name": "Fatima Zahra",
+"discharge_date": "2024-11-15",
+"primary_diagnosis": "Cellulitis of right lower leg",
+"medications": ["Cephalexin 500mg four times daily x10 days", "Ibuprofen PRN"],
+"dietary_restrictions": "None specific",
+"follow_up": "Wound clinic / Primary care in 3 days",
+"warning_signs": "Spreading redness, fever, increasing pain",
+"discharge_instructions": "Keep area elevated and clean; complete antibiotics"
+},
+{
+"patient_name": "Oliver Johnson",
+"discharge_date": "2024-11-28",
+"primary_diagnosis": "Acute Appendicitis - post appendectomy",
+"medications": ["Acetaminophen 500mg PRN", "Cephalexin 500mg twice daily x5 days"],
+"dietary_restrictions": "Light diet initially; advance as tolerated",
+"follow_up": "Surgical follow-up in 7-10 days",
+"warning_signs": "Fever, increasing abdominal pain, wound redness/drainage",
+"discharge_instructions": "Avoid heavy lifting for 2 weeks; wound care instructions given"
+},
+{
+"patient_name": "Chen Wei",
+"discharge_date": "2024-12-07",
+"primary_diagnosis": "Chronic Liver Disease - compensated",
+"medications": ["Propranolol 40mg twice daily", "Spironolactone 50mg daily"],
+"dietary_restrictions": "Low sodium (2g/day); avoid alcohol",
+"follow_up": "Hepatology clinic in 2 weeks",
+"warning_signs": "Jaundice, abdominal swelling, confusion (encephalopathy)",
+"discharge_instructions": "Daily weights and monitor for swelling; vaccines reviewed"
+},
+{
+"patient_name": "Isabella Rossi",
+"discharge_date": "2024-12-20",
+"primary_diagnosis": "Migraine with status resolved",
+"medications": ["Sumatriptan 50mg PRN", "Propranolol 20mg nightly"],
+"dietary_restrictions": "Avoid known dietary triggers (aged cheese, red wine)",
+"follow_up": "Neurology clinic in 4 weeks",
+"warning_signs": "Increased frequency or severity of headaches, visual changes",
+"discharge_instructions": "Maintain headache diary; avoid overuse of acute medications"
+},
+{
+"patient_name": "Noah Bennett",
+"discharge_date": "2024-12-30",
+"primary_diagnosis": "Chronic Obstructive Pulmonary Disease - exacerbation",
+"medications": ["Prednisone 20mg daily x5 days", "Formoterol inhaler twice daily", "Salbutamol inhaler PRN"],
+"dietary_restrictions": "No smoking; maintain adequate hydration",
+"follow_up": "Pulmonology clinic in 2 weeks",
+"warning_signs": "Increased breathlessness, blue lips, fever",
+"discharge_instructions": "Use inhalers as instructed; seek urgent care for worsening symptoms"
+},
+{
+"patient_name": "Zara Khan",
+"discharge_date": "2024-12-28",
+"primary_diagnosis": "Cellulitis of left arm",
+"medications": ["Amoxicillin-Clavulanate 875/125mg twice daily x7 days", "Ibuprofen PRN"],
+"dietary_restrictions": "None specific",
+"follow_up": "Wound clinic in 3 days",
+"warning_signs": "Spreading redness, fever, increasing pain",
+"discharge_instructions": "Keep area elevated, complete antibiotic course"
+},
+{
+"patient_name": "Diego Morales",
+"discharge_date": "2024-12-25",
+"primary_diagnosis": "Peptic Ulcer Disease - stable",
+"medications": ["Omeprazole 20mg daily", "Sucralfate 1g four times daily PRN"],
+"dietary_restrictions": "Avoid NSAIDs and alcohol; small frequent meals",
+"follow_up": "Gastroenterology in 4 weeks",
+"warning_signs": "Black stools, severe abdominal pain, vomiting blood",
+"discharge_instructions": "Take acid suppression as prescribed and avoid irritants"
+},
+{
+"patient_name": "Mei Lin",
+"discharge_date": "2024-12-24",
+"primary_diagnosis": "Acute Otitis Media - resolved",
+"medications": ["Amoxicillin 500mg three times daily x7 days", "Acetaminophen PRN"],
+"dietary_restrictions": "None specific",
+"follow_up": "Primary care in 1 week if persistent symptoms",
+"warning_signs": "High fever, severe ear pain, discharge from ear",
+"discharge_instructions": "Complete antibiotics and return if symptoms worsen"
+},
+{
+"patient_name": "Katarina Novak",
+"discharge_date": "2024-12-23",
+"primary_diagnosis": "Transient Ischemic Attack (TIA)",
+"medications": ["Aspirin 81mg daily", "Clopidogrel 75mg daily"],
+"dietary_restrictions": "Heart-healthy diet, low sodium",
+"follow_up": "Neurology clinic in 1 week",
+"warning_signs": "New weakness, slurred speech, vision changes",
+"discharge_instructions": "Avoid driving until cleared; attend stroke clinic"
+}
+]
