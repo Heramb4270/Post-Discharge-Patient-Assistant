@@ -43,7 +43,6 @@ venv.bak/
 *.pem
 secrets.json
 config.json
-*.pdf
 *.sqlite3
 
 # IDEs and Editors
